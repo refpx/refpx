@@ -57,7 +57,7 @@ sudo apt update && sudo apt upgrade
 
   | Method      | Command     |
   | ----------- | ----------- |
-  | curl        | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
+  | curl (used) | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
   | wget        | `sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
   | fetch       | `sh -c "$(fetch -o - https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
 
@@ -73,6 +73,19 @@ sudo apt update && sudo apt upgrade
 - Install the current release of Node.js (for testing latest Node.js features and improvements, but more likely to have issues): `nvm install node` or LTS version `nvm install --lts`
 - NPM is installed with Node, after that install yarn: `npm install --global yarn`
 
+<p align="right">(<a href="#top">back to top</a>)</p>
 
+## Configure accounts
 
+- Docker: docker login
+- NPM: npm login
+   - npm config set init-author-name "Fredy Romero"
+   - npm config set init-author-email "romeroespinoza.fp@gmail.com"
+   - npm config set init-licsense "MIT"
+- GIT:
+   - Create a SSH KEY
+   - git config --global user.name "Fredy Romero"
+   - git config --global user.email "romeroespinoza.fp@gmail.com"
+   - git config --global init.defaultBranch main
 
+<p align="right">(<a href="#top">back to top</a>)</p>
