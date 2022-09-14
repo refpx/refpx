@@ -30,15 +30,12 @@
 
 <p align="right">(<a target="_blank" href="#readme-top">back to top</a>)</p>
 
-___
-
-<br>
+---
 
 ## 🛠️ My favorite tools
 
-<details style="margin-left: 20px" open>
-  <summary style="font-size:18px; margin-bottom: 10px;">👨‍💻 Programming and markup languages</summary>
-  <!-- <p style="margin-left: 26px"> -->
+<details open>
+  <summary><h3>👨‍💻 Programming and markup languages</h3></summary>
   <p align="center">
     <a target="_blank" href="https://github.com/search?q=user%3Arefpx+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a target="_blank" href="https://github.com/search?q=user%3Arefpx+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -55,9 +52,8 @@ ___
   </p>
 </details>
 
-<details style="margin-left: 20px">
-  <summary style="font-size:18px; margin-bottom: 10px;">🧰 Frameworks and libraries</summary>
-  <!-- <p style="margin-left: 26px"> -->
+<details>
+  <summary><h3>🧰 Frameworks and libraries</h3></summary>
   <p align="center">
     <a target="_blank" href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
     <a target="_blank" href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A.svg?logo=react&logoColor=61DAFB"></a>
@@ -81,11 +77,8 @@ ___
   </p>
 </details>
 
-<br>
-
-<details style="margin-left: 20px">
-  <summary style="font-size:18px; margin-bottom: 10px;">🗄️ Databases and cloud hosting</summary>
-  <!-- <p style="margin-left: 26px"> -->
+<details>
+  <summary><h3>🗄️ Databases and cloud hosting</h3></summary>
   <p align="center">
     <a target="_blank" href="#"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811.svg?logo=Power%20BI&logoColor=black"></a>
     <a target="_blank" href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"></a>
@@ -108,11 +101,8 @@ ___
   </p>
 </details>
 
-<br>
-
-<details style="margin-left: 20px">
-  <summary style="font-size:18px; margin-bottom: 10px;">💻 Software and tools</summary>
-  <!-- <p style="margin-left: 26px"> -->
+<details>
+  <summary><h3>💻 Software and tools</h3></summary>
   <p align="center">
     <a target="_blank" href="#"><img alt="Office 365" src="https://img.shields.io/badge/Office%20365-fff.svg?logo=microsoft&logoColor=black"></a>
     <a target="_blank" href="#"><img alt="Mailchimp" src="https://img.shields.io/badge/MailChimp-222222.svg?logo=MailChimp&logoColor=FFE01B"></a>
@@ -143,10 +133,8 @@ ___
 
 ---
 
-<br>
-
-<details style="margin-left: 20px">
-  <summary style="font-size:18px; margin-bottom: 10px;">📊 Github Stats</summary>
+<details>
+  <summary><h2>📊 Github Stats</h2></summary>
   <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refpx&layout=compact&theme=codeSTACKr)](https://github.com/refpx)
