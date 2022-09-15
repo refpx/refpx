@@ -133,7 +133,7 @@
 ---
 
 <details>
-  <summary><h2>📊 Github Stats</h2></summary>
+  <summary>📊 Github Stats</summary>
   <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refpx&layout=compact&theme=codeSTACKr)](https://github.com/refpx)
