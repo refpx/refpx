@@ -2,14 +2,10 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a target="_blank" href="https://github.com/refpx">
-    <img src="https://github.com/refpx/refpx/blob/main/Code%20typing-bro.png?raw=true" alt="Logo" width="141">
-  </a>
-
-  <h2>
+  <h1>
     Hi there, I'm Fredy
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  </h2>
+  </h1>
 
 [![Profile views Badge](https://komarev.com/ghpvc/?username=refpx&color=10454F)](https://github.com/refpx)
 [![Linkedin Badge](https://img.shields.io/badge/fromeroe-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fromeroe/)
@@ -18,7 +14,6 @@
 [![Gmail Badge](https://img.shields.io/badge/romeroespinoza.fp-c14438?logo=Gmail&logoColor=white)](mailto:romeroespinoza.fp@gmail.com)
 
   <p>I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</p>
-  <br>
 </div>
 
 ## 😄 More About Me:
@@ -35,7 +30,8 @@
 ## 🛠️ My favorite tools
 
 <details open>
-  <summary><h3>👨‍💻 Programming and markup languages</h3></summary>
+  <summary>👨‍💻 Programming and markup languages</summary>
+  <br>
   <p align="center">
     <a target="_blank" href="https://github.com/search?q=user%3Arefpx+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
     <a target="_blank" href="https://github.com/search?q=user%3Arefpx+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
@@ -53,7 +49,8 @@
 </details>
 
 <details>
-  <summary><h3>🧰 Frameworks and libraries</h3></summary>
+  <summary>🎁 Frameworks and libraries</summary>
+  <br>
   <p align="center">
     <a target="_blank" href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A.svg?logo=react&logoColor=61DAFB"></a>
     <a target="_blank" href="#"><img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A.svg?logo=react&logoColor=61DAFB"></a>
@@ -78,7 +75,8 @@
 </details>
 
 <details>
-  <summary><h3>🗄️ Databases and cloud hosting</h3></summary>
+  <summary>🗄️ Databases and cloud hosting</summary>
+  <br>
   <p align="center">
     <a target="_blank" href="#"><img alt="Power BI" src="https://img.shields.io/badge/PowerBI-F2C811.svg?logo=Power%20BI&logoColor=black"></a>
     <a target="_blank" href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-222222.svg?logo=github&logoColor=white"></a>
@@ -102,7 +100,8 @@
 </details>
 
 <details>
-  <summary><h3>💻 Software and tools</h3></summary>
+  <summary>💻 Software and tools</summary>
+  <br>
   <p align="center">
     <a target="_blank" href="#"><img alt="Office 365" src="https://img.shields.io/badge/Office%20365-fff.svg?logo=microsoft&logoColor=black"></a>
     <a target="_blank" href="#"><img alt="Mailchimp" src="https://img.shields.io/badge/MailChimp-222222.svg?logo=MailChimp&logoColor=FFE01B"></a>
