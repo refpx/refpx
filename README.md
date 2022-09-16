@@ -1,6 +1,5 @@
 <a name="readme-top"></a>
 
-<!-- PROJECT LOGO -->
 <div align="center">
   <h1>
     Hi there, I'm Fredy
@@ -24,8 +23,6 @@
 - 💬 Ask me about anything tech related, and I am happy to help.
 
 <p align="right">(<a target="_blank" href="#readme-top">back to top</a>)</p>
-
----
 
 ## 🛠️ My favorite tools
 
@@ -130,10 +127,10 @@
 </details>
 <p align="right">(<a target="_blank" href="#readme-top">back to top</a>)</p>
 
----
+## 📊 Github Stats
 
 <details>
-  <summary>📊 Github Stats</summary>
+  <summary>📈 Most used languages</summary>
   <div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=refpx&layout=compact&theme=codeSTACKr)](https://github.com/refpx)
