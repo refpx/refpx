@@ -17,9 +17,9 @@
 
 ## 😄 More About Me:
 
-- 🔭 I’m currently working on <code>yt-pool</code>
-- 🌱 I’m currently learning <code>Go/Golang</code>
-- 🤔 I’m looking for help with <code>Astro build</code>
+- 🔭 I’m currently working on <code>chat app</code>.
+- 🌱 I’m currently learning <code>Go/Golang</code>.
+- 🤔 I’m looking for help with <code>Astro</code>.
 - 💬 Ask me about anything tech related, and I am happy to help.
 
 <p align="right">(<a target="_blank" href="#readme-top">back to top</a>)</p>
