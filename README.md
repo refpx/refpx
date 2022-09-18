@@ -7,9 +7,9 @@
   </h1>
 
 [![Profile views Badge](https://komarev.com/ghpvc/?username=refpx&color=10454F)](https://github.com/refpx)
-[![Linkedin Badge](https://img.shields.io/badge/fromeroe-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fromeroe/)
-[![Twitter Badge](https://img.shields.io/badge/@refp30-1ca0f1?logo=twitter&logoColor=white)](https://twitter.com/refp30)
-[![Instagram Badge](https://img.shields.io/badge/@refp30-purple?logo=instagram&logoColor=white)](https://instagram.com/refp30/?theme=dark)
+[![Linkedin Badge](https://img.shields.io/badge/refpx-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/refpx/)
+[![Twitter Badge](https://img.shields.io/badge/@refpx__-1ca0f1?logo=twitter&logoColor=white)](https://twitter.com/refpx_)
+[![Instagram Badge](https://img.shields.io/badge/@refpx__-purple?logo=instagram&logoColor=white)](https://instagram.com/refpx_/?theme=dark)
 [![Gmail Badge](https://img.shields.io/badge/romeroespinoza.fp-c14438?logo=Gmail&logoColor=white)](mailto:romeroespinoza.fp@gmail.com)
 
   <p>I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</p>
@@ -17,7 +17,7 @@
 
 ## 😄 More About Me:
 
-- 🔭 I’m currently working on <code>chat app</code>.
+- 🔭 I’m currently working on <code>Chat app</code>.
 - 🌱 I’m currently learning <code>Go/Golang</code>.
 - 🤔 I’m looking for help with <code>Astro</code>.
 - 💬 Ask me about anything tech related, and I am happy to help.
