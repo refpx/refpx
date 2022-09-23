@@ -2,7 +2,7 @@
 
 ---
 
-#  Ubuntu in WSL - Quickstart
+# Ubuntu in WSL - Quickstart
 
 My personal guide to install Ubuntu and configure basic tools in WSL.
 
@@ -13,14 +13,13 @@ This is an example of how you install Ubuntu in Windows Subsystem for Linux.
 ### Install WSL
 
 - You can install everything you need to run Windows Subsystem for Linux (WSL) by entering this command in an **administrator** PowerShell or Windows Command Prompt and then restarting your machine.
-   ```
-   wsl --install
-   ```
-   
+  ```
+  wsl --install
+  ```
 - Try running `wsl --list --online` to see a list of available distros and run `wsl --install -d <DistroName>` to install a distro. Example installing Ubuntu:
-   ```
-   wsl --install -d Ubuntu
-   ```
+  ```
+  wsl --install -d Ubuntu
+  ```
 
 ### Set up your Linux username and password
 
@@ -34,6 +33,7 @@ Once the process of installing your Linux distribution with WSL is complete, ope
 ### Update and upgrade packages
 
 I recommend that you regularly update and upgrade your packages using the preferred package manager for the distribution. For Ubuntu or Debian, use the command:
+
 ```
 sudo apt update && sudo apt upgrade
 ```
@@ -55,10 +55,10 @@ sudo apt update && sudo apt upgrade
 - Verify installation by running `zsh --version`.
 - Once you have zsh, you can install Oh My Zsh by simply running one of these commands:
 
-  | Method      | Command     |
-  | ----------- | ----------- |
+  | Method      | Command                                                                                           |
+  | ----------- | ------------------------------------------------------------------------------------------------- |
   | curl (used) | `sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
-  | wget        | `sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
+  | wget        | `sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`   |
   | fetch       | `sh -c "$(fetch -o - https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"` |
 
 ### Personalize your theme
@@ -79,13 +79,13 @@ sudo apt update && sudo apt upgrade
 
 - Docker: docker login
 - NPM: npm login
-   - npm config set init-author-name "Fredy Romero"
-   - npm config set init-author-email "romeroespinoza.fp@gmail.com"
-   - npm config set init-licsense "MIT"
+  - npm config set init-author-name "Fredy Romero"
+  - npm config set init-author-email "romeroespinoza.fp@gmail.com"
+  - npm config set init-licsense "MIT"
 - GIT:
-   - Create a SSH KEY
-   - git config --global user.name "Fredy Romero"
-   - git config --global user.email "romeroespinoza.fp@gmail.com"
-   - git config --global init.defaultBranch main
+  - Create a SSH KEY
+  - git config --global user.name "Fredy Romero"
+  - git config --global user.email "romeroespinoza.fp@gmail.com"
+  - git config --global init.defaultBranch main
 
 <p align="right">(<a href="#top">back to top</a>)</p>
