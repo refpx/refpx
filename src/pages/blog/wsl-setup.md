@@ -1,3 +1,7 @@
+---
+layout: ../../layouts/BlogPostLayout.astro
+---
+
 <div id="top"></div>
 
 ---
