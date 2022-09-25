@@ -21,7 +21,7 @@ const { title } = Astro.props
       class='container flex flex-row content-center items-start pt-8 pb-16 px-0 mx-auto gap-12'
     >
       <aside
-        class='box-border flex flex-col items-start p-6 gap-8 border border-blue-200 rounded-lg w-60'
+        class='box-border flex flex-col items-start p-6 gap-8 border border-blue-200 rounded-lg w-1/6'
       >
         <ul class='flex flex-col items-start p-0 gap-4'>
           <li class='flex flex-row items-center p-0 gap-2.5 rounded-lg'>
@@ -167,8 +167,8 @@ const { title } = Astro.props
           </li>
         </ul>
       </aside>
-      <article class='w-'><slot /></article>
-      <aside class='w-fit flex flex-col items-start p-0 gap-8'>
+      <section class='w-4/6'><slot /></section>
+      <aside class='w-1/6 flex flex-col items-start p-0 gap-8'>
         <div
           class='box-border flex flex-col items-start p-5 gap-6 border border-gray-200 rounded-lg'
         >
