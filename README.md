@@ -6,7 +6,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
   </h1>
 
-[![Profile views Badge](https://komarev.com/ghpvc/?username=refpx&color=10454F)](https://github.com/refpx)
 [![Linkedin Badge](https://img.shields.io/badge/refpx-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/refpx/)
 [![Twitter Badge](https://img.shields.io/badge/@refpx__-1ca0f1?logo=twitter&logoColor=white)](https://twitter.com/refpx_)
 [![Instagram Badge](https://img.shields.io/badge/@refpx__-purple?logo=instagram&logoColor=white)](https://instagram.com/refpx_/?theme=dark)
