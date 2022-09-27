@@ -16,7 +16,7 @@
 
 ## 😄 More About Me:
 
-- 🔭 I’m currently working on <code>Go: REST API</code>.
+- 🔭 I’m currently working on personal portfolio with Astro.
 - 🌱 I’m currently learning <code>Go/Golang</code>.
 - 🤔 I’m looking for help with <code>Astro</code>.
 - 💬 Ask me about anything tech related, and I am happy to help.
