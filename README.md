@@ -1,24 +1,23 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <h1>
-    Hi there, I'm Fredy
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
-  </h1>
+  
+# Hi there, I'm Fredy! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/refpx-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/refpx/)
 [![Twitter Badge](https://img.shields.io/badge/@refpx__-1ca0f1?logo=twitter&logoColor=white)](https://twitter.com/refpx_)
 [![Instagram Badge](https://img.shields.io/badge/@refpx__-purple?logo=instagram&logoColor=white)](https://instagram.com/refpx_/?theme=dark)
 [![Gmail Badge](https://img.shields.io/badge/romeroespinoza.fp-c14438?logo=Gmail&logoColor=white)](mailto:romeroespinoza.fp@gmail.com)
 
-  <p>I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.</p>
+I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+
 </div>
 
-## 😄 More About Me:
+## 😄 More About Me
 
-- 🔭 I’m currently working in my personal portfolio with Astro.
-- 🌱 I’m currently learning <code>Go/Golang</code>.
-- 🤔 I’m looking for help with <code>Astro</code>.
+- 🔭 I’m currently working in `my personal portfolio with Astro`.
+- 🌱 I’m currently learning `Go/Golang`.
+- 🤔 I’m looking for help with `Astro`.
 - 💬 Ask me about anything tech related, and I am happy to help.
 
 <p align="right">(<a target="_blank" href="#readme-top">back to top</a>)</p>
