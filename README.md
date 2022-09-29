@@ -5,9 +5,10 @@
 # Hi there, I'm Fredy! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/refpx-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/refpx/)
-[![Twitter Badge](https://img.shields.io/badge/@refpx__-1ca0f1?logo=twitter&logoColor=white)](https://twitter.com/refpx_)
-[![Instagram Badge](https://img.shields.io/badge/@refpx__-purple?logo=instagram&logoColor=white)](https://instagram.com/refpx_/?theme=dark)
 [![Gmail Badge](https://img.shields.io/badge/romeroespinoza.fp-c14438?logo=Gmail&logoColor=white)](mailto:romeroespinoza.fp@gmail.com)
+
+<!-- [![Twitter Badge](https://img.shields.io/badge/@refpx__-1ca0f1?logo=twitter&logoColor=white)](https://twitter.com/refpx_)
+[![Instagram Badge](https://img.shields.io/badge/@refpx__-purple?logo=instagram&logoColor=white)](https://instagram.com/refpx_/?theme=dark) -->
 
 I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
 

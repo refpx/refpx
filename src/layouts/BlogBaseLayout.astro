@@ -167,7 +167,9 @@ const { title } = Astro.props
           </li>
         </ul>
       </aside>
-      <section class='w-4/6'><slot /></section>
+      <section class='w-4/6'>
+        <slot />
+      </section>
       <aside class='w-1/6 flex flex-col items-start p-0 gap-8'>
         <div
           class='box-border flex flex-col items-start p-5 gap-6 border border-gray-200 rounded-lg'
@@ -238,79 +240,80 @@ const { title } = Astro.props
             </div>
           </div>
         </div>
-        <ul class='flex flex-col items-start p-5 gap-6 bg-gray-50 rounded-lg'>
-          <li>
-            <span class='uppercase text-sm font-bold text-gray-900'>
-              Who to follow
-            </span>
-          </li>
-          <li class='flex felx-col items-start p-0 gap-4'>
-            <div class='flex flex-row items-start p-0 gap-2.5 rounded-lg'>
-              <img
-                src='https://img.icons8.com/office/344/circled-user-female-skin-type-4.png'
-                alt=''
-                class='h-6 w-6 rounded-full'
-              />
-              <div class='flex flex-col items-start p-0 gap-px'>
-                <span
-                  class='leading-tight text-base font-semibold text-gray-900'
-                  >Midudev</span
+        <div class='flex flex-col items-start p-5 gap-6 bg-gray-50 rounded-lg'>
+          <span class='uppercase text-sm font-bold text-gray-900'>
+            Who to follow
+          </span>
+
+          <ul class='flex flex-col items-start p-5 gap-6 bg-gray-50 rounded-lg'>
+            <li class='flex felx-col items-start p-0 gap-4'>
+              <div class='flex flex-row items-start p-0 gap-2.5 rounded-lg'>
+                <img
+                  src='https://img.icons8.com/office/344/circled-user-female-skin-type-4.png'
+                  alt=''
+                  class='h-6 w-6 rounded-full'
+                />
+                <div class='flex flex-col items-start p-0 gap-px'>
+                  <span
+                    class='leading-tight text-base font-semibold text-gray-900'
+                    >Midudev</span
+                  >
+                  <p class='text-sm font-normal text-gray-500'>
+                    Paula Davis is the founder of the Stress...
+                  </p>
+                </div>
+                <button
+                  class='box-border flex flex-row justify-center items-center px-3 py-2 border rounded-lg font-xs font-medium text-gray-900 border-gray-200 hover:bg-gray-100'
+                  >Follow</button
                 >
-                <p class='text-sm font-normal text-gray-500'>
-                  Paula Davis is the founder of the Stress...
-                </p>
               </div>
-              <button
-                class='box-border flex flex-row justify-center items-center px-3 py-2 border rounded-lg font-xs font-medium text-gray-900 border-gray-200 hover:bg-gray-100'
-                >Follow</button
-              >
-            </div>
-          </li>
-          <li class='flex felx-col items-start p-0 gap-4'>
-            <div class='flex flex-row items-start p-0 gap-2.5 rounded-lg'>
-              <img
-                src='https://img.icons8.com/office/344/circled-user-female-skin-type-4.png'
-                alt=''
-                class='h-6 w-6 rounded-full'
-              />
-              <div class='flex flex-col items-start p-0 gap-px'>
-                <span
-                  class='leading-tight text-base font-semibold text-gray-900'
-                  >Midudev</span
+            </li>
+            <li class='flex felx-col items-start p-0 gap-4'>
+              <div class='flex flex-row items-start p-0 gap-2.5 rounded-lg'>
+                <img
+                  src='https://img.icons8.com/office/344/circled-user-female-skin-type-4.png'
+                  alt=''
+                  class='h-6 w-6 rounded-full'
+                />
+                <div class='flex flex-col items-start p-0 gap-px'>
+                  <span
+                    class='leading-tight text-base font-semibold text-gray-900'
+                    >Midudev</span
+                  >
+                  <p class='text-sm font-normal text-gray-500'>
+                    Paula Davis is the founder of the Stress...
+                  </p>
+                </div>
+                <button
+                  class='box-border flex flex-row justify-center items-center px-3 py-2 border rounded-lg font-xs font-medium text-gray-900 border-gray-200 hover:bg-gray-100'
+                  >Follow</button
                 >
-                <p class='text-sm font-normal text-gray-500'>
-                  Paula Davis is the founder of the Stress...
-                </p>
               </div>
-              <button
-                class='box-border flex flex-row justify-center items-center px-3 py-2 border rounded-lg font-xs font-medium text-gray-900 border-gray-200 hover:bg-gray-100'
-                >Follow</button
-              >
-            </div>
-          </li>
-          <li class='flex felx-col items-start p-0 gap-4'>
-            <div class='flex flex-row items-start p-0 gap-2.5 rounded-lg'>
-              <img
-                src='https://img.icons8.com/office/344/circled-user-female-skin-type-4.png'
-                alt=''
-                class='h-6 w-6 rounded-full'
-              />
-              <div class='flex flex-col items-start p-0 gap-px'>
-                <span
-                  class='leading-tight text-base font-semibold text-gray-900'
-                  >Midudev</span
+            </li>
+            <li class='flex felx-col items-start p-0 gap-4'>
+              <div class='flex flex-row items-start p-0 gap-2.5 rounded-lg'>
+                <img
+                  src='https://img.icons8.com/office/344/circled-user-female-skin-type-4.png'
+                  alt=''
+                  class='h-6 w-6 rounded-full'
+                />
+                <div class='flex flex-col items-start p-0 gap-px'>
+                  <span
+                    class='leading-tight text-base font-semibold text-gray-900'
+                    >Midudev</span
+                  >
+                  <p class='text-sm font-normal text-gray-500'>
+                    Paula Davis is the founder of the Stress...
+                  </p>
+                </div>
+                <button
+                  class='box-border flex flex-row justify-center items-center px-3 py-2 border rounded-lg font-xs font-medium text-gray-900 border-gray-200 hover:bg-gray-100'
+                  >Follow</button
                 >
-                <p class='text-sm font-normal text-gray-500'>
-                  Paula Davis is the founder of the Stress...
-                </p>
               </div>
-              <button
-                class='box-border flex flex-row justify-center items-center px-3 py-2 border rounded-lg font-xs font-medium text-gray-900 border-gray-200 hover:bg-gray-100'
-                >Follow</button
-              >
-            </div>
-          </li>
-        </ul>
+            </li>
+          </ul>
+        </div>
       </aside>
     </div>
 
