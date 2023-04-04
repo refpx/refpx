@@ -1,88 +1,68 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
-  name: "Uzair Ahmed",
+  baseUrl: "https://fredy-romero.netlify.app/",
+  name: "Fredy Romero",
   jobDescription: "Web Developer",
-  about: `I'm a software engineer based in Karachi, Pakistan.
-   I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between.
-   I have been working for 3 year, with a demonstrated history of working in the Computer Software industry. Skilled in Front-end Development.
-   I have 3 years of experience in HTML, CSS, SCSS, JavaScript, Bootstrap, tailwind CSS, StyledComponent, React JS and Next JS. Hence,
-   I have successfully completed several web projects from scratch. 
-   Yet, I learn continuously and never stop exploring new technologies.
-   So, I have also gained knowledge of Node JS, Express JS, Mongo DB, Python,
-   firebase and React Native with time.
-  `,
+  about: `+2 años de experiencia como Gestor de Tecnologías y Sistemas de Información. Liderando e implementando proyectos de sistemas de información con el objetivo de mejorar los procesos del área para uso interno y externo. Mentalidad lean respaldada en mi experiencia proponiendo y liderando el uso de nuevas herramientas tecnológicas. Orientación al servicio y comunicación asertiva`,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
-      endDate: "Present",
+      name: "Gestor de Tecnologías y Sistemas de Información en Universidad Continental",
+      location: "Huancayo, Junín, Perú",
+      startDate: "Feb 2019",
+      endDate: "Abr 2021",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "✓ Desarrollar sistemas de información para automatizar procesos internos del Hub de Información y Fondo Editorial con lenguajes de programación como PHP, C# (.NET MVC) y JavaScript (React JS).",
+        "✓ Automatizar el proceso de envío de correos masivos, agendar eventos, generar reportes, automatizar documentos, entre otros. dentro de la Suite de Gmail con el lenguaje de programación Google Apps Script.",
+        "✓ Generación de reportes en Excel, Google Sheets, Power BI y Google Data Studio con la información obtenida de las diferentes bases de datos (MySQL, PostgreSQL) de los sistemas de información.",
+        "✓ Brindar soporte técnico a los equipos informáticos para estudiantes y personal administrativo, además de apoyar y orientar a los estudiantes y docentes en el uso de los mismos.",
+        "✓ Apoyar con el cumplimiento del sistema de gestión de la calidad para la acreditación del Hub de Información y Fondo Editorial con la creación y mantenimiento de los manuales de procesos del área TSI.",
+        "✓ Gestionar el contenido de las páginas web del Hub de Información y Fondo Editorial desarrolladas en WordPress; así mismo mejorar este contenido siguiendo los lineamientos del área de comunicaciones de la Universidad."
       ],
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "Asistente del Área de Sistemas en MonteCanelo Contratistas Generales",
+      location: "Huancayo, Junín, Perú",
+      startDate: "Oct 2018",
+      endDate: "Ene 2019",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
+        "✓ Mantenimiento técnico de los equipos informáticos, laptop y pc, del personal administrativo.",
+        "✓ Apoyar en la gestión de documentos y generación de reportes en Excel para el control de materiales y personal.",
+        "✓ Desarrollo de la página web de la Inmobiliaria para la oferta de inmuebles, captación de usuarios y promoción de servicios.",
+        "✓ Desarrollar e implementar un software de realidad virtual para recorrido interno de los inmuebles.",
       ],
     },
 
     {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
+      name: "Capacitador en Robótica en Universidad Continental",
+      location: "Huancayo, Junín, Perú",
+      startDate: "Mar 2018",
+      endDate: "Sep 2018",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "✓ Capacitar a estudiantes de nivel secundario de los colegios María Inmaculada, Nuestra Señora del Rosario y Salesiano “Santa Rosa” en la programación de robótica con Arduino.",
+        "✓ Orientar a estudiantes en la creación de proyectos tecnológicos para participar en el concurso de robótica “Contibot” organizado por la Universidad Continental para estudiantes de nivel secundario de la ciudad de Huancayo.",
       ],
     },
   ],
 
   education: [
     {
-      name: "Pakistan Institute of Professional Science & Technology (PIPS-TECH)",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2019",
-      endDate: "2022",
+      name: "Ingeniería de Sistemas e Informática en Universidad Continenta",
+      location: "Huancayo, Junín, Perú",
+      startDate: "2014",
+      endDate: "2028",
       description: [
-        "Diploma of Associate Engineering,  Computer Information Technology (CIT)",
+        "Diploma de bachiller en Ingeniería de Sistemas e Informática",
       ],
-    },
-    {
-      name: "Govt. Degree Boys College Buffer Zone",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2018",
-      endDate: "2020",
-      description: ["Intermediate, Pre-Engineering"],
-    },
-    {
-      name: "Ghazi Foundation Schools & Colleges",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "2016",
-      endDate: "2018",
-      description: ["Matriculation,  Computer Science"],
     },
   ],
 
   socialMedia: {
-    facebook: "https://www.facebook.com/profile.php?id=100022899849583",
-    twitter: "https://twitter.com/Uzzii_21",
-    github: "https://github.com/uzzii-21",
-    email: "uzairahmed@74372gmail.com",
-    linkedin: "https://www.linkedin.com/in/uzzii21/",
+    facebook: "#",
+    twitter: "https://twitter.com/fredy_pre",
+    github: "https://github.com/refpx",
+    email: "mailto:romeroespinoza.fp@gmail.com",
+    linkedin: "https://www.linkedin.com/in/fromeroe/",
   },
 
   projects: [
