@@ -1,8 +1,7 @@
 {
-  "name": "refpx-portfolio",
+  "name": "portfolio",
   "type": "module",
   "version": "0.0.1",
-  "private": true,
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -11,15 +10,6 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/tailwind": "3.1.2",
-    "@fontsource/inter": "4.5.15",
-    "astro": "2.4.5",
-    "framer-motion": "10.12.10",
-    "tailwindcss": "3.3.2"
-  },
-  "devDependencies": {
-    "@astrojs/react": "2.1.1",
-    "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "astro": "^2.4.1"
   }
 }
